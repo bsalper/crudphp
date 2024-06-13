@@ -13,16 +13,16 @@ Este proyecto es un CRUD (Crear, Leer, Actualizar, Eliminar) desarrollado en PHP
 ## Funcionalidades
 
 - Visualización de Registros: En la página principal del proyecto, se muestra una lista de usuarios registrados en la base de datos.
-![ver](./images/ver.png)
+![ver](./Images/ver.png)
 
 - Creación de Usuarios: Se proporciona un formulario para agregar nuevos usuarios al sistema.
-![registro](./images/registro.png)
+![registro](./Images/registro.png)
 
 - Edición de Usuarios: Cada usuario en la lista tiene la opción de ser editado. Al hacer clic en el botón de edición, se abre un modal con el formulario prellenado con los datos del usuario seleccionado.
-![editar](./images/editar.png)
+![editar](./Images/editar.png)
 
 - Eliminación de Usuarios: Se puede eliminar un usuario haciendo clic en el botón de eliminación asociado al usuario en la lista. Se muestra un mensaje de confirmación antes de proceder con la eliminación.
-![eliminar](./images/eliminar.png)
+![eliminar](./Images/eliminar.png)
 
 ## Instalación
 
